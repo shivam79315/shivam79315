@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam79315
+- 👋 Hi, I’m @shivam
 - 👀 I’m interested in software web development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on some opensource project
