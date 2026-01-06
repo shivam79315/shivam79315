@@ -51,13 +51,6 @@ I’m interested in contributing to:
 
 ## Contact
 - **LinkedIn:** Reach me via my LinkedIn profile  
-
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam&layout=compact&theme=tokyonight)
-
----
+- **Gmail Account:** shivamsahotra3@gmail.com  
 
 > *“Great products are built by strong teams.”*
