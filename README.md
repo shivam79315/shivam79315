@@ -1,56 +1,124 @@
-# Hi, I’m Shivam
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shivam - Full Stack Developer</title>
 
-## About Me
-I’m a **Full Stack Web Developer** experienced in building scalable, production-ready web applications. I work comfortably across the frontend, backend, and cloud infrastructure, and I enjoy collaborating with teams to deliver high-quality solutions.
+<!-- Devicon CDN -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-- Full Stack Web Developer  
-- Open to collaborating on **Open Source projects**  
-- Pronouns: **He/Him**  
-- Strong believer in **teamwork and collaboration**
+<style>
+body{
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  line-height: 1.6;
+}
 
----
+.tech-grid{
+  display:flex;
+  flex-wrap:wrap;
+  gap:20px;
+  align-items:center;
+}
 
-## Tech Stack & Skills
+.tech-grid i{
+  font-size:48px;
+}
 
-### Frontend
-- React.js  
-- JavaScript (ES6+)  
-- HTML5, CSS3  
-- Tailwind CSS / Bootstrap  
+.section{
+  margin-top:25px;
+}
+</style>
+</head>
 
-### Backend
-- Node.js  
-- Laravel  
-- RESTful APIs  
+<body>
 
-### Databases
-- MongoDB  
-- MySQL  
-- Firebase  
+<h1>Hi, I’m Shivam</h1>
 
-### DevOps & Cloud
-- Docker  
-- AWS (EC2, S3, basic CI/CD)  
-- Firebase Hosting  
+<h2>About Me</h2>
+<p>
+I’m a <strong>Full Stack Web Developer</strong> experienced in building scalable, production-ready web applications. 
+I work comfortably across the frontend, backend, and cloud infrastructure, and I enjoy collaborating with teams 
+to deliver high-quality solutions.
+</p>
 
-### Tools
-- Git & GitHub  
-- Postman  
-- Linux  
+<ul>
+<li>Full Stack Web Developer</li>
+<li>Open to collaborating on <strong>Open Source projects</strong></li>
+<li>Pronouns: <strong>He/Him</strong></li>
+<li>Strong believer in <strong>teamwork and collaboration</strong></li>
+</ul>
 
----
+<h2>Tech Stack & Skills</h2>
 
-## Open Source Collaboration
-I’m interested in contributing to:
-- MERN stack projects  
-- Laravel-based applications  
-- Backend systems and APIs  
-- Developer-focused tools  
+<div class="section">
+<h3>Frontend</h3>
+<div class="tech-grid">
+<i class="devicon-react-original colored" title="React"></i>
+<i class="devicon-javascript-plain colored" title="JavaScript"></i>
+<i class="devicon-html5-plain colored" title="HTML5"></i>
+<i class="devicon-css3-plain colored" title="CSS3"></i>
+<i class="devicon-tailwindcss-original colored" title="Tailwind CSS"></i>
+<i class="devicon-bootstrap-plain colored" title="Bootstrap"></i>
+</div>
+</div>
 
----
+<div class="section">
+<h3>Backend</h3>
+<div class="tech-grid">
+<i class="devicon-nodejs-plain colored" title="Node.js"></i>
+<i class="devicon-laravel-original colored" title="Laravel"></i>
+<i class="devicon-express-original" title="REST APIs / Express"></i>
+</div>
+</div>
 
-## Contact
-- **LinkedIn:** Reach me via my LinkedIn profile  
-- **Gmail Account:** shivamsahotra3@gmail.com  
+<div class="section">
+<h3>Databases</h3>
+<div class="tech-grid">
+<i class="devicon-mongodb-plain colored" title="MongoDB"></i>
+<i class="devicon-mysql-plain colored" title="MySQL"></i>
+<i class="devicon-firebase-plain colored" title="Firebase"></i>
+</div>
+</div>
 
-> *“Great products are built by strong teams.”*
+<div class="section">
+<h3>DevOps & Cloud</h3>
+<div class="tech-grid">
+<i class="devicon-docker-plain colored" title="Docker"></i>
+<i class="devicon-amazonwebservices-original colored" title="AWS"></i>
+<i class="devicon-firebase-plain colored" title="Firebase Hosting"></i>
+</div>
+</div>
+
+<div class="section">
+<h3>Tools</h3>
+<div class="tech-grid">
+<i class="devicon-git-plain colored" title="Git"></i>
+<i class="devicon-github-original" title="GitHub"></i>
+<i class="devicon-postman-plain colored" title="Postman"></i>
+<i class="devicon-linux-plain" title="Linux"></i>
+</div>
+</div>
+
+<h2>Open Source Collaboration</h2>
+<ul>
+<li>MERN stack projects</li>
+<li>Laravel-based applications</li>
+<li>Backend systems and APIs</li>
+<li>Developer-focused tools</li>
+</ul>
+
+<h2>Contact</h2>
+<ul>
+<li><strong>LinkedIn:</strong> Reach me via my LinkedIn profile</li>
+<li><strong>Gmail Account:</strong> shivamsahotra3@gmail.com</li>
+</ul>
+
+<blockquote>
+“Great products are built by strong teams.”
+</blockquote>
+
+</body>
+</html>
