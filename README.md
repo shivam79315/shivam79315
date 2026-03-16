@@ -53,7 +53,7 @@ to deliver high-quality solutions.
 
 <h3>Tools</h3>
 
-<p>
+<p style="background:#fff; padding: 10px; border-radius: 10px; display: flex; gap: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50"/>
