@@ -53,9 +53,9 @@ to deliver high-quality solutions.
 
 <h3>Tools</h3>
 
-<p style="background:#fff; padding: 10px; border-radius: 10px; display: flex; gap: 20px;">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
 </p>
